@@ -1,6 +1,26 @@
 {
   "events": [
-  {"id": 1, "name": "Laptop", "price": 20000},
-  {"id": 2, "name": "Radio", "price": 40000}
+  {
+    "id": 1, 
+    "name": "Laptop", 
+    "price": 20000},
+    "title": "The Dell Laptop",
+    "description": "Good memory and speed."
+    
+  {
+    "id": 2, 
+    "name": "Radio", 
+    "price": 40000,
+    "title": "The Sony radio",
+    "description": "Best sound."
+  },
+
+ {
+    "id": 2, 
+    "name": "Tv", 
+    "price": 90000,
+    "title": "The LG TV",
+    "description": "Best sound and image quality."
+  }
 ]
 }
